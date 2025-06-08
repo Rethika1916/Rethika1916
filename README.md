@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Rethika 👋
 
-<!--
-**Rethika1916/Rethika1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 A passionate **Full Stack Java Developer**  
+💻 Skilled in **Java, React, Spring Boot, MongoDB**  
+🎯 Currently building real-world projects and seeking a full-time role  
+📚 Pursuing my second degree with OD support  
+🔐 Interned in Machine Learning & Cybersecurity  
+🌍 Based in Chennai | Open to remote work  
 
-Here are some ideas to get you started:
+##🔧 Tech Stack
+- **Languages:** Java, Python, SQL, JavaScript  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Spring Boot, Node.js  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, GitHub, Postman, Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔗 [Women Safety using AI & Hand Gestures](https://github.com/Rethika1916/women-safety-ai)  
+🔗 [Store Sales Prediction](https://github.com/Rethika1916/price-prediction)  
+🔗 [NLP Chatbot System](https://github.com/Rethika1916/nlp-chatbot)
+
+## 📫 Let's Connect!
+📧 Email: reyamano555@gmail.com  
+📎 [LinkedIn](https://www.linkedin.com/in/rethika-m-047b57275) | [Portfolio](https://rethika1916.github.io/Portfolios/)
