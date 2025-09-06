@@ -21,4 +21,4 @@
 
 ## 📫 Let's Connect!
 📧 Email: reyamano555@gmail.com  
-📎 [LinkedIn](https://www.linkedin.com/in/rethika-m-047b57275) | [Portfolio](https://rethika1916.github.io/Portfolios/)
+📎 [LinkedIn](https://www.linkedin.com/in/rethika-m-047b57275) | [Portfolio] https://rethika1916.github.io/Portfolio/
